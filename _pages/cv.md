@@ -65,7 +65,12 @@ Work experience
   * Almex System Technology Asia (Almex-STA), MY 
   * Working remotely with a distributed team in HQ (Japan)
   * Tools used: Python, Docker, OpenCV, OpenVINO, Bash, Flask, MongoDB, Ansible, TensorFlow, PyQt
-  * Projects: 
+  * Projects:
+      * RAG (Retrieval Augmented Generator) ChatBot.
+        * Customized a ChatBot based on a custom set of Knowledge Base dataset that was legally scraped from customer's website.
+        * Provided API endpoints to allow updates and changes to the Knowledge Base dataset.
+        * Simulated conversations, tracking goals, frustration levels, and various metrics via generated personas.
+        * Created an evaluation framework to assess the relevance, faithfulness, hallucanation, scope and other metrics.
       * Invoice OCR: Research, proposal and POC Development.
         * Classification of documents using image features, Identification and extraction of desired texts
       * Person Re-Identification: Research, proposal and POC Development.
