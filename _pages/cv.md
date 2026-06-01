@@ -69,8 +69,9 @@ Versatile and systems-driven Solutions Engineer and AI Architect with over a dec
 
 <h2>Professional Experience</h2>
 
-<h4>Almex System Technology Asia (Almex-STA) | MY (Remote with Tokyo HQ)</h4>
-<b></b>Senior AI Solutions Engineer</b> | May 2019-Present
+Almex System Technology Asia (Almex-STA) | MY (Remote with Tokyo HQ)
+----
+<b>Senior AI Solutions Engineer</b> | May 2019-Present
   
   * <b>Architected & Deployed Enterprise RAG Infrastructure</b>: Co-designed and built an end-to-end Retrieval-Augmented Generation (RAG) Chatbot ecosystem hosted on GCP. Developed secure, scalable API endpoints for dynamic Knowledge Base updates and engineered an automated evaluation framework to audit pipeline relevance, faithfulness, and mitigation of hallucinations.
   * <b>Designed CV Pipelines from POC to Production</b>: Formulated technical proposals, researched architectures, and developed Proof of Concepts (POCs) for mission-critical CV products, including an Invoice OCR document classification engine and a Person Re-Identification system demonstrated at international trade fairs.
@@ -81,7 +82,8 @@ Versatile and systems-driven Solutions Engineer and AI Architect with over a dec
 Tools used: Python, Docker, OpenVINO, GCP, Ansible, TensorFlow, OpenCV, Flask, MongoDB, Bash, PyQt.
       
 
-<h4>Multimedia University | MY</h4>
+Multimedia University | MY
+----
 <b>Computer Vision Research Scholar</b> | Oct 2016 - Apr 2019
 
 * <b>Engineered Video Analytics Frameworks</b>: Directed semantic extraction and data preprocessing workflows for project SHERLOCK, a large-scale, multi-camera video analytics initiative optimized for smart city long-term surveillance.
@@ -89,7 +91,8 @@ Tools used: Python, Docker, OpenVINO, GCP, Ansible, TensorFlow, OpenCV, Flask, M
 
 Tools used: C++, OpenCV, Python, JavaScript, Linux.
   
-<h4>Freelance & International Research Consultant | MY / TW</h4>
+Freelance & International Research Consultant | MY / TW
+----
 <b>AI Solutions Consultant</b> | Jun 2018 – Feb 2019
 
 * <b>Retail Store Analytics Solution (Freelance)</b>: Designed and deployed an edge-to-cloud customer analytics pipeline using Raspberry Pi nodes and custom deep learning models. Streamlined gender and behavioral inference processing on the edge before structured JSON data payloads were shipped to AWS cloud buckets for client business-intelligence consumption.
@@ -97,7 +100,8 @@ Tools used: C++, OpenCV, Python, JavaScript, Linux.
 
 Tools used: AWS (EC2/S3), Docker, Raspberry Pi, Keras, TensorFlow, OpenCV, Python.
   
-<h4>Hewlett Packard Enterprise (HPE) | MY</h4>
+Hewlett Packard Enterprise (HPE) | MY
+----
 <b>Application Management & Service Delivery Engineer</b> | Sept 2012 – Sept 2016
 
 * <b>High-Availability Production Systems Support</b>: Provided Tier-3 24/7 technical incident and crisis management for CIMB Bank's core payment channels (including IBG, Autopay, Remittance, and Direct Debit), ensuring zero-downtime operations for critical financial traffic.
@@ -105,14 +109,16 @@ Tools used: AWS (EC2/S3), Docker, Raspberry Pi, Keras, TensorFlow, OpenCV, Pytho
 
 Tools used: Mainframe z/OS, COBOL, JCL, CA-7, Unix Shell Scripting, SQL, Visual Basic.
 
-<h4>Multimedia University | MY</h4>
+Multimedia University | MY
+----
 <b>Research Assistant & Web Systems Developer</b> | Aug 2010 – Jan 2012
 
 * Designed, implemented, and managed a centralized Content Management System (CMS) utilized by university staff to audit and track R&D progress. Successfully launched the software into active production, sustaining a 5-year operational lifecycle until retirement.
 
 Tools used: PHP, SQL, HTML/CSS, WAMP Server.
 
-<h4>Education</h4>
+Education
+----
 
 * <b>M.S. in Information Technology</b> | Multimedia University, 2021
     * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
@@ -121,7 +127,8 @@ Tools used: PHP, SQL, HTML/CSS, WAMP Server.
 * <b>Diploma in Technology, Mechatronics</b> | Tunku Abdul Rahman College, 2008
 
 
-<h4>Selected Publications, Patents & Awards</h4>
+Selected Publications, Patents & Awards
+----
 
 * Copyright Owner: Core Retrieval Engine for Smart City Analytics.
 * Primary Author: "Efficient Semantic-Based Vehicle Retrieval in Long-term Car Park Videos," IEEE ICMEW, 2019.
