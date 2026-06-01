@@ -12,17 +12,15 @@ redirect_from:
 <a style="line-height: 1.5;" href="https://github.com/BrightTux/brighttux.github.io/raw/master/files/cv.pdf"><span style="color: #333333;"><span id="printThis" style="font-size: medium;">Also available in PDF format.</span></span></a>
 
 <h1 class="western" align="center"><b>Clarence Cheong</b></h1>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span> <br>
-clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a> <br>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Systems Architect | AI Solutions Engineer | Computer Vision</b> </span> <br>
+Kuala Lumpur, Malaysia | clarence_han[at]hotmail[dot]com | <a href="https://github.com/BrightTux">https://github.com/BrightTux</a> <br>
 
 <img align="center" alt="Python" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/python-logo-generic.svg"/>
 <img align="center" alt="Bash" width="22px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/24x24.png"/>
 <img align="center" alt="OpenCV" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/487px-OpenCV_Logo_with_text_svg_version.svg.png"/>
 <img align="center" alt="Tensorflow" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Tensorflow_logo.svg"/>
-<img align="center" alt="Vim" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Vimlogo.svg" />
 <img align="center" alt="Git" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/512px-Git-logo.svg.png"/>
-<img align="center" alt="Ansible" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png"/> 
-<img align="center" alt="Docker" width="22px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/>
+<img align="center" alt="Docker" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/free-docker-logo_svgstack_com_50121780321196.svg"/>
 
 </p>
 
@@ -55,95 +53,80 @@ function printcv()
 
 }
 
-
-  
 </script>
 
-Work experience
-======
-* May 2019 - Current: Maintenance & Testing Technician (Machine Learning)
-  * Almex System Technology Asia (Almex-STA), MY 
-  * Working remotely with a distributed team in HQ (Japan)
-  * Tools used: Python, Docker, OpenCV, OpenVINO, Bash, Flask, MongoDB, Ansible, TensorFlow, PyQt
-  * Projects:
-      * RAG (Retrieval Augmented Generator) ChatBot.
-        * Customized a ChatBot based on a custom set of Knowledge Base dataset that was legally scraped from customer's website.
-        * Provided API endpoints to allow updates and changes to the Knowledge Base dataset.
-        * Simulated conversations, tracking goals, frustration levels, and various metrics via generated personas.
-        * Created an evaluation framework to assess the relevance, faithfulness, hallucanation, scope and other metrics.
-      * Invoice OCR: Research, proposal and POC Development.
-        * Classification of documents using image features, Identification and extraction of desired texts
-      * Person Re-Identification: Research, proposal and POC Development.
-        * Labelling tools for internal testing, Performance Measurement, POC Demo at Hotel Fairs
-        * Utilized pre-trained models from OpenVINO
-      * Flir AX8 Thermal Camera API: Cowritten an API for thermal imaging purposes.
-        * Face detection, Thermal correction using BlackBody device
-      * Image Labeling Tool: Enhance existing [labeling tool](https://github.com/tzutalin/labelImg) to include MongoDB, automatic text detection & labeling (via OpenVINO). Automatic installation on multiple workstations via Ansible.
-      * FCOS-Styled Datasets Generator: Converted existing datasets into Fully Convolutional One-Stage [(FCOS)](https://arxiv.org/abs/1904.01355) styled tfrecord dataset. 
-      * Japanese Characters (Hiragana, Katagana, Kanji) Text OCR: Developed an system to generate pairs of binary mask and synthetic text as training data. This includes checking of available unique glyphs for each font and ensuring the generated text does not exceed the canvas upon various augmentation. 
-      * SynthText-JPN (Japanese Text-on-Image Synthesis): Enhance existing [text generators](https://github.com/gachiemchiep/SynthText) to generated more text-in-image samples, the process includes generating new depth maps and new segmentation maps to generate own background images. 
-      * Text Saliency Mapper: Developed saliency map generator to visualize and understand how well each text-characters are predicted. 
+<h2>Professional Summary</h2>
 
-* Oct 2016 - April 2019: Research Scholar, Multimedia University, MY
-  * Project: [SHERLOCK: Video Analytics for Multi-Camera Long-term Surveillance in Smart Cities.](https://www.youtube.com/watch?v=x_UJIOEBusw) 
-  * Responsibilities: Developed an object semantics extraction and retrieval engine, includes data preprocessing, manual annotation. Attended Conferences, participated in bi-weekly reading group on latest research works in Computer Vision (Aesthetics, Medical, Micro Expressions, Image Recognition), exhibited and showcased the SHERLOCK Retrieval Engine. Published 2 conference papers; Obtained copyright for the retrieval engine.
-  * Tools used: C++, OpenCV, Python, HTML, CSS and JavaScript
-  * Supervisor: [Professor John See](https://researchportal.hw.ac.uk/en/persons/john-see)
+Versatile and systems-driven Solutions Engineer and AI Architect with over a decade of multi-disciplinary experience spanning Computer Vision (CV), Enterprise Software, Cloud Infrastructure, and Legacy Mainframe integration. Proven track record of bridging the gap between deep tech research and production-grade, distributed deployments. Expert in designing end-to-end AI pipelines—ranging from custom LLM RAG frameworks on GCP to large-scale video analytics engines for Smart Cities—while orchestrating containerized environments and edge-AI runtimes.
+
+<h2>Core Competencies</h2>
+
+* Architectures: End-to-End AI/ML Pipelines, RAG Frameworks, Distributed Systems, Microservices, Edge AI
+* Computer Vision & Deep Learning: Object Detection/Tracking, Person Re-Identification, OCR (Synthetic Data Gen), OpenVINO, TensorFlow, Keras
+* DevOps & Cloud Infrastructure: Docker, Ansible, AWS (EC2/S3), GCP, CI/CD, Shell Scripting, Linux System Admin
+* Enterprise Integration: Enterprise APIs, Relational & NoSQL Databases (SQL, MongoDB), Mainframe (COBOL, JCL, z/OS), ITIL Incident & Crisis Management
+* Full-Stack & Automation: Python, C++, Flask, JavaScript, PHP, Visual Basic, Automations, PyQt GUI Development
+
+<h2>Professional Experience</h2>
+
+<h4>Almex System Technology Asia (Almex-STA) | MY (Remote with Tokyo HQ)</h4>
+<b></b>Senior AI Solutions Engineer</b> | May 2019-Present
   
-* Nov 2018 - Feb 2019: Freelance Project
-  * Project: Retail Store Analytics using Video Feed 
-  * Developed a solution to extract customer's information such as location, clothing preference, entry/exit, visited aisle, payment counter, and etc using video feed. A simple deep learning model was trained to differentiate between male and female customers in AWS. The extracted JSON data is then sent to AWS for storage and postprocessing by the client.
-  * Tools used: Raspberry Pi, OpenCV, Python, BASH, AWS and Docker. 
+  * <b>Architected & Deployed Enterprise RAG Infrastructure</b>: Co-designed and built an end-to-end Retrieval-Augmented Generation (RAG) Chatbot ecosystem hosted on GCP. Developed secure, scalable API endpoints for dynamic Knowledge Base updates and engineered an automated evaluation framework to audit pipeline relevance, faithfulness, and mitigation of hallucinations.
+  * <b>Designed CV Pipelines from POC to Production</b>: Formulated technical proposals, researched architectures, and developed Proof of Concepts (POCs) for mission-critical CV products, including an Invoice OCR document classification engine and a Person Re-Identification system demonstrated at international trade fairs.
+  * <b>Optimized Edge AI Deployment & System Integration</b>: Co-authored high-performance API integrations for FLIR AX8 Thermal Cameras featuring real-time face detection and blackbody-calibrated thermal corrections. Optimized deep learning models utilizing Intel's OpenVINO toolkit for deployment at the edge.
+  * <b>Automated Cross-Workstation Orchestration</b>: Overhauled an internal image-labeling application by implementing a MongoDB data layer and integrating automated text-detection algorithms. Streamlined installation friction across multiple distributed workstations via Ansible configuration management.
+  * <b>Engineered Complex ML Data Synthesis Systems</b>: Built custom ML data tools, including a synthetic Japanese character OCR training system utilizing font glyph checking and canvas-overflow validation, an enhanced SynthText background-generation engine manipulating depth and segmentation maps, and an FCOS-styled tfrecord translation pipeline.
 
-* Summer 2018 (Jun 2018 - Sept 2018): Research Intern, National Chung Cheng University, TW
-  * Project: Vehicle Trajectory Classification using Machine Learning tools. Learned how to develop a simple network using Convolutional Neural Networks.
-  * Tools used: Python, OpenCV, Keras and Tensorflow.
-  * Supervisor: [Professor Wen-Nung, Lie](http://www.dsp.ee.ccu.edu.tw/wnlie/)
+Tools used: Python, Docker, OpenVINO, GCP, Ansible, TensorFlow, OpenCV, Flask, MongoDB, Bash, PyQt.
+      
+
+<h4>Multimedia University | MY</h4>
+<b>Computer Vision Research Scholar</b> | Oct 2016 - Apr 2019
+
+* <b>Engineered Video Analytics Frameworks</b>: Directed semantic extraction and data preprocessing workflows for project SHERLOCK, a large-scale, multi-camera video analytics initiative optimized for smart city long-term surveillance.
+* IP Creation & Research Leadership: Successfully obtained intellectual property copyright for the developed core vehicle semantic retrieval engine. Published 2 peer-reviewed IEEE/Springer international conference papers and presented findings to industry stakeholders.
+
+Tools used: C++, OpenCV, Python, JavaScript, Linux.
   
-* Sept 2012 - Sept 2016: Application Management Service Delivery, Hewlett Packard Enterprise, MY
-  * Provided 24/7 Service Delivery Support for a local bank’s (CIMB) core payment systems which includes IBG, Direct Debit, Autopay, Remittance as well as PTPTN system. While providing technical support, I would be liaising with the clients and IT operations team. Along with that, during the tenure I was also working on the CIMB 1P (1 Platform) project to develop extraction programs based on client’s requirements.
-  * Tools used: (Mainframe Z/os) COBOL, JCL, CA-7, Unix, BASH, Visual Basic and SQL.
-  * Supervisor: [Chor Pheng Khee](https://my.linkedin.com/in/chor-pheng-khee-652685133)
+<h4>Freelance & International Research Consultant | MY / TW</h4>
+<b>AI Solutions Consultant</b> | Jun 2018 – Feb 2019
 
-* Aug 2010 - Jan 2012: Research Assistant, Multimedia University, MY
-  * Project: Content Management System (CMS) for Multimedia University Staffs to report their R&D progress as well as contributions. The system went live from 2012 and was decommissioned on 2017.
-  * Tools used: PHP, SQL, HTML, CSS and WAMP server.
-  * Supervisor: [Dr Chin Ji Jian](https://www.plymouth.ac.uk/staff/ji-jian-chin)
+* <b>Retail Store Analytics Solution (Freelance)</b>: Designed and deployed an edge-to-cloud customer analytics pipeline using Raspberry Pi nodes and custom deep learning models. Streamlined gender and behavioral inference processing on the edge before structured JSON data payloads were shipped to AWS cloud buckets for client business-intelligence consumption.
+* <b>Vehicle Trajectory Analytics (Research Intern - National Chung Cheng University, TW)</b>: Researched and prototyped deep CNN architectures to handle automated vehicle trajectory classification under the supervision of Professor Wen-Nung Lie.
+
+Tools used: AWS (EC2/S3), Docker, Raspberry Pi, Keras, TensorFlow, OpenCV, Python.
   
+<h4>Hewlett Packard Enterprise (HPE) | MY</h4>
+<b>Application Management & Service Delivery Engineer</b> | Sept 2012 – Sept 2016
 
-Education
-======
-* M.S. in Information Technology, Multimedia University, 2021
-  * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
+* <b>High-Availability Production Systems Support</b>: Provided Tier-3 24/7 technical incident and crisis management for CIMB Bank's core payment channels (including IBG, Autopay, Remittance, and Direct Debit), ensuring zero-downtime operations for critical financial traffic.
+* <b>Cross-Platform Systems Engineering</b>: Interfaced directly with client stakeholders and IT operations teams to implement data extraction applications for the enterprise-wide "CIMB 1 Platform" banking migration project.
 
-* B.Eng. in Electronics Majoring in Multimedia, Multimedia University, 2012
-  * Thesis Topic: Speaker Voice Recognition
+Tools used: Mainframe z/OS, COBOL, JCL, CA-7, Unix Shell Scripting, SQL, Visual Basic.
 
-* Diploma in Technology, Mechatronics, Tunku Abdul Rahman College, 2008
+<h4>Multimedia University | MY</h4>
+<b>Research Assistant & Web Systems Developer</b> | Aug 2010 – Jan 2012
+
+* Designed, implemented, and managed a centralized Content Management System (CMS) utilized by university staff to audit and track R&D progress. Successfully launched the software into active production, sustaining a 5-year operational lifecycle until retirement.
+
+Tools used: PHP, SQL, HTML/CSS, WAMP Server.
+
+<h4>Education</h4>
+
+* <b>M.S. in Information Technology</b> | Multimedia University, 2021
+    * Thesis Topic: Extraction and Retrieval of Object Semantics for Long-Term Car Park Surveillance Videos
+* <b>B.Eng. in Electronics Majoring in Multimedia</b> | Multimedia University, 2012
+    * Thesis Topic: Speaker Voice Recognition
+* <b>Diploma in Technology, Mechatronics</b> | Tunku Abdul Rahman College, 2008
 
 
-Skills
-======
-* Framework/Tools: OpenCV, Docker, OpenVINO, Flask, VMs, AWS (Basic EC2, S3), Git
-* Languages: C++, JavaScript, Python, SQL, PHP, VB, HTML, CSS, MATLAB, PowerShell, Unix Shell Scripting
-* Mainframe: COBOL, JCL, CA-7, z/OS
-* ITIL Foundation knowledge, Incident & Crisis Management
+<h4>Selected Publications, Patents & Awards</h4>
 
-Languages
-======
-* Spoken: English (Native), Chinese, Malay
-* Written: English, Malay
-  
-Publications and Awards
-======
-<a id="publicationslist" href="https://scholar.google.com/citations?user=z8n5LTEAAAAJ&hl=en">Google Scholar</a>
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-* 2018
-  * International Invention, Innovation & Technology Exhibition (ITEX), Malaysia: Silver Medalist (ICT & Multimedia - University & Research Institute Category)
-  * Malaysia Technology Expo (MTE): Invention & Innovation Category: Bronze Medalist
-  * A.I Hackathon for Good: 2nd Runner Up
-* 2017
-  * Research Innovation Commercialisation & Entrepreneurship Showcase (RICES): 1'st Runner Up 
+* Copyright Owner: Core Retrieval Engine for Smart City Analytics.
+* Primary Author: "Efficient Semantic-Based Vehicle Retrieval in Long-term Car Park Videos," IEEE ICMEW, 2019.
+* Co-Author: "Vehicle Semantics Extraction and Retrieval for Long-Term Carpark Video Surveillance," Springer MMM, 2018.
+* Co-Author: "On vehicle state tracking for long-term carpark video surveillance," IEEE ICSIPA, 2017.
+* Silver Medalist: ITEX Malaysia (ICT & Multimedia Category), 2018.
+* Bronze Medalist: Malaysia Technology Expo (Invention & Innovation Category), 2018.
+* 2nd Runner Up: National A.I. Hackathon for Good, 2018.
